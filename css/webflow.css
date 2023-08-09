@@ -904,7 +904,7 @@ textarea.w-select {
   color: white;
 }
 .w-background-video > video {
-  background-size: cover;
+  background-size: contain;
   background-position: 50% 50%;
   position: absolute;
   margin: auto;
@@ -914,7 +914,7 @@ textarea.w-select {
   bottom: -100%;
   top: -100%;
   left: -100%;
-  object-fit: cover;
+  object-fit: contain;
   z-index: -100;
 }
 .w-background-video > video::-webkit-media-controls-start-playback-button {
