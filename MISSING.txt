@@ -63,7 +63,7 @@ images/6349793a1301ded0dbc3efb3_icon-facebook-p-130x130q80.png
 images/634980c4e464225fa88e59f6_icon-linkedin-p-130x130q80.png
 images/634981802269c69e2ad42d16_icon-copy-link-p-130x130q80.png
 images/6349825fd2f3b42cf706f84f_icon-email-stroke-p-130x130q80.png
-images/634a425e05fc1066bf79d7bb_Screen-Shot-2022-10-15-at-6.24.01-AM-p-130x130q80.jpeg
+images/634a425e05fc1066bf79d7bb_Screen-Shot-2023-10-15-at-6.24.01-AM-p-130x130q80.jpeg
 images/634a4806a2d140c55fd4022f_ETH-p-130x130q80.jpeg
 images/634a4816af899d664edc02a3_BTC-p-130x130q80.jpeg
 images/634a482da626bc44a6995c9a_XMR-p-130x130q80.jpeg
@@ -103,7 +103,7 @@ images/Image-4-p-500.png
 images/Image-5-p-500.png
 images/Image-6-p-500.png
 images/Image-Background-p-500.png
-images/Screen-Shot-2022-10-15-at-6.24.01-AM-p-500.jpeg
+images/Screen-Shot-2023-10-15-at-6.24.01-AM-p-500.jpeg
 images/TETHER-USDT-on-ERC20-p-130x130q80.jpeg
 images/image-lux-uranium-bull-run-2-p-130x130q80.png
 images/image-lux-uranium-bull-run-2-p-2000.png
